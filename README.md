@@ -58,7 +58,7 @@ I'm a Full-Stack Web Developer and Computer Science Educator. I love the web, bi
 <hr/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deybyr647&show_icons=true&count_private=true&include_all_commits=true&theme=vue" 
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+       media="(prefers-color-scheme: no-preference)"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deybyr647&show_icons=true&layout=compact&langs_count=8&theme=vue"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+       media="(prefers-color-scheme: no-preference)"/>
 </div>
