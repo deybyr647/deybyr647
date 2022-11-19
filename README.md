@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm a Full-Stack Web Developer and Computer Science Educator. I love the web, biking, and the cold weather ❄️
 
-- 📈 &nbsp;&nbsp; I’m interested in Financial Technology
+- <img src="assets/fintech.png" width="26px"/> &nbsp; I’m interested in Financial Technology
 - &nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
