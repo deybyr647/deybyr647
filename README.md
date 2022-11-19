@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="assets/deybyr647_banner.png" align="center"/>
 
-### <samp>&gt; Hi there, I'm <a href="https://www.deybyr647.com" target="_blank" rel="noopener noreferrer">Deyby Rodriguez</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://www.deybyr647.com" target="_blank" rel="noopener noreferrer">Deyby Rodriguez</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </samp>
 
 ### Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=deybyr647)
 
@@ -14,11 +14,10 @@ I'm a Full-Stack Web Developer and Computer Science Educator. I love the web, bi
 - <img src="assets/fintech.png" width="26px"/> &nbsp; I’m interested in Financial Technology
 - I’m currently learning...
   - <img src="assets/graph.png" width="26px"/> &nbsp; Data Structures
-  - 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
+  - <img src="assets/react_native.png" width="26px"/> &nbsp; React Native
+  - <img src="assets/mongodb.png" width="26px"/> &nbsp; MongoDB
+- <img src="assets/email.png" width="26px"/> &nbsp;Want to get in touch? My email is <a href="mailto:deybyr647@gmail.com" target="_blank" rel="noopener noreferrer">deybyr647@gmail.com</a>
+- <img src="assets/resume.png" width="26px"/>&nbsp;&nbsp; [My Resume](https://drive.google.com/file/d/1DAltzxGZoo5-zSfvJco6aLXw_MQD3qa8/view?usp=sharing)
 
 
 ## 🔧 Languages
@@ -56,6 +55,7 @@ I'm a Full-Stack Web Developer and Computer Science Educator. I love the web, bi
   <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=21897e"/>
 </div>
 
+<hr/>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deybyr647&show_icons=true&count_private=true&include_all_commits=true&theme=vue" 
        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
