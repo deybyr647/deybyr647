@@ -17,7 +17,7 @@ I'm a Full-Stack Web Developer and Computer Science Educator. I love the web, bi
   - <img src="assets/react_native.png" width="26px"/> &nbsp; React Native
   - <img src="assets/mongodb.png" width="26px"/> &nbsp; MongoDB
 - <img src="assets/email.png" width="26px"/> &nbsp;Want to get in touch? My email is <a href="mailto:deybyr647@gmail.com" target="_blank" rel="noopener noreferrer">deybyr647@gmail.com</a>
-- <img src="assets/resume.png" width="26px"/>&nbsp;&nbsp; [My Resume](https://drive.google.com/file/d/1DAltzxGZoo5-zSfvJco6aLXw_MQD3qa8/view?usp=sharing)
+- <img src="assets/resume.png" width="26px"/>&nbsp;&nbsp; [My Resume](https://deybyr647.github.io/resume/resume.pdf)
 
 
 ## 🔧 Languages
