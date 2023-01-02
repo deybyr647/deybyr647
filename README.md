@@ -10,8 +10,10 @@ You can click the Preview link to take a look at your changes.
 ### Excited to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=deybyr647)
 
 I'm a Full-Stack Web Developer and Computer Science Educator. I love the web, biking, and the cold weather ❄️
-
-- <img src="assets/fintech.png" width="26px"/> &nbsp; I’m interested in Financial Technology
+- I’m interested in...
+  - Financial Technology &nbsp; <img src="assets/fintech.png" width="26px"/>
+  - Health Informatics
+  - Cyber-Security
 - I’m currently learning...
   - <img src="assets/graph.png" width="26px"/> &nbsp; Data Structures
   - <img src="assets/react_native.png" width="26px"/> &nbsp; React Native
