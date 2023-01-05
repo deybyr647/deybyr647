@@ -65,7 +65,7 @@ I'm a Full-Stack Web Developer and Computer Science Educator. I love the web, bi
   </picture>
 
   <picture>
-    <source srcset="https://github-stats-cards-seven.vercel.app/api/top-langs/?username=deybyr647&show_icons=true&layout=compact&langs_count=8&theme=rose_pine" media="(prefers-color-scheme: dark)"/>
-    <img width="40%" align="right" src="https://github-stats-cards-seven.vercel.app/api/top-langs/?username=deybyr647&show_icons=true&layout=compact&langs_count=8&theme=vue"/>
+    <source srcset="https://github-stats-cards-seven.vercel.app/api/top-langs?username=deybyr647&show_icons=true&layout=compact&langs_count=8&theme=rose_pine" media="(prefers-color-scheme: dark)"/>
+    <img width="40%" align="right" src="https://github-stats-cards-seven.vercel.app/api/top-langs?username=deybyr647&show_icons=true&layout=compact&langs_count=8&theme=vue"/>
   </picture>
 </div>
