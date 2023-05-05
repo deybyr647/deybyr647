@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ### <samp>&gt; Hi there, I'm <a href="https://www.deybyr647.com" target="_blank" rel="noopener noreferrer">Deyby Rodriguez</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </samp>
 
-### Excited to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=deybyr647)
+### Excited to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=deybyr647&color=blue)
 
 I'm a Full-Stack Web Developer and Computer Science Educator. I love the web, biking, and the cold weather ❄️
 - I’m interested in...
